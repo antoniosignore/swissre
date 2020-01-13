@@ -55,8 +55,4 @@ public class FileReaderImplTest {
         Assert.assertEquals(3, portfolio.size());
     }
 
-
-    @Test
-    public void process() {
-    }
 }

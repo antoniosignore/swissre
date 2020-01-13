@@ -25,7 +25,7 @@ public class FactoriesTest {
     public void should_not_create_factories() {
 
         Assert.assertNull(fileReaderBad);
-        Assert.assertNull(fileReaderBad);
+        Assert.assertNull(quotesServiceBad);
 
     }
 
