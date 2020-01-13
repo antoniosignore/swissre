@@ -45,6 +45,12 @@ At the prompt digit:
 
 If successfull you should read at terminal
 
+    Enter your portfolio filename  :src/test/resources/bob_crypto.txt
+    Total portfolio value:73856.4500
+    ticker='BTC', amount=10, value=72833.10
+    ticker='ETH', amount=5, value=643.15
+    ticker='XRP', amount=2000, value=380.2000
+
 ### unit test code coverage
 
 Coverage is execute by Jacoco. The code coverage is not too bad.
